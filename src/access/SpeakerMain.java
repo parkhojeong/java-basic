@@ -13,7 +13,7 @@ public class SpeakerMain {
         speaker.volumeDown();
         speaker.showVolume();
 
-        speaker.volume = 200; // direct access
+//        speaker.volume = 200; // direct access disabled
         speaker.showVolume();
     }
 }
