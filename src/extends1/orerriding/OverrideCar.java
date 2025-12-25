@@ -24,7 +24,6 @@ public class OverrideCar extends Car{
     // Method return type missing or constructor name does not match class name
     // @Override
     // public Car() {}
-    
     // exception - child class
     @Override
     public void errorMethod() throws IOException {}
